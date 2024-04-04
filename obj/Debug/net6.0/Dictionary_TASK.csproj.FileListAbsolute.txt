@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Task\Dictionary_TASK\bin\Debug\net6.0\Dictionary_TASK.exe
+C:\Users\hp\Desktop\Task\Dictionary_TASK\bin\Debug\net6.0\Dictionary_TASK.deps.json
+C:\Users\hp\Desktop\Task\Dictionary_TASK\bin\Debug\net6.0\Dictionary_TASK.runtimeconfig.json
+C:\Users\hp\Desktop\Task\Dictionary_TASK\bin\Debug\net6.0\Dictionary_TASK.dll
+C:\Users\hp\Desktop\Task\Dictionary_TASK\bin\Debug\net6.0\Dictionary_TASK.pdb
+C:\Users\hp\Desktop\Task\Dictionary_TASK\obj\Debug\net6.0\Dictionary_TASK.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Task\Dictionary_TASK\obj\Debug\net6.0\Dictionary_TASK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Task\Dictionary_TASK\obj\Debug\net6.0\Dictionary_TASK.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Task\Dictionary_TASK\obj\Debug\net6.0\Dictionary_TASK.AssemblyInfo.cs
+C:\Users\hp\Desktop\Task\Dictionary_TASK\obj\Debug\net6.0\Dictionary_TASK.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Task\Dictionary_TASK\obj\Debug\net6.0\Dictionary_TASK.dll
+C:\Users\hp\Desktop\Task\Dictionary_TASK\obj\Debug\net6.0\refint\Dictionary_TASK.dll
+C:\Users\hp\Desktop\Task\Dictionary_TASK\obj\Debug\net6.0\Dictionary_TASK.pdb
+C:\Users\hp\Desktop\Task\Dictionary_TASK\obj\Debug\net6.0\Dictionary_TASK.genruntimeconfig.cache
+C:\Users\hp\Desktop\Task\Dictionary_TASK\obj\Debug\net6.0\ref\Dictionary_TASK.dll
